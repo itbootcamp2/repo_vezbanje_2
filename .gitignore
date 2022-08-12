@@ -1,1 +1,3 @@
 /test_output
+#*.pdf => ignorisi sve fajlove koji se zavrsavaju na .pdf
+logs_*
